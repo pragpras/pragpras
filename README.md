@@ -1,9 +1,8 @@
 <div align="center" id="header">
-  <img src="https://media.giphy.com/media/LtNx4NsxHaDDoQT3Am/giphy.gif" height=250/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRyMzMzZWlxOW05cGJ3YnlpcDNhMGFrbnNubjd1bDdqNW54bWU5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBLq0QJdxy57CV2/giphy.gif" height=250/>
 </div>
 <h1 align="center">
   hello there
-  <img src="https://giphy.com/gifs/cat-cats-illustrator-26xBLq0QJdxy57CV2" height=50/>
   <br/>
   welcome to my github
 </h1>
